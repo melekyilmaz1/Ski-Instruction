@@ -20,14 +20,36 @@ export default function HeroSection() {
     >
       {/* Background Video & Gradient */}
       <video
-        className="absolute inset-0 w-full h-full object-cover opacity-50 pointer-events-none"
         autoPlay
         loop
         muted
         playsInline
+        preload="auto"
+        style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          width: '100%',
+          height: '100%',
+          objectFit: 'cover',
+          opacity: 0.5,
+          pointerEvents: 'none',
+          zIndex: 1
+        }}
         src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260418_063509_7d167302-4fd4-480b-8260-18ab572333d4.mp4"
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-transparent to-black/90 pointer-events-none" />
+      <div 
+        style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          width: '100%',
+          height: '100%',
+          background: 'linear-gradient(to bottom, rgba(0,0,0,0.7), transparent, rgba(0,0,0,0.9))',
+          pointerEvents: 'none',
+          zIndex: 2
+        }} 
+      />
 
       {/* Central Headlines */}
       <div 
