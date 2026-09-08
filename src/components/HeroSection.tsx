@@ -1,4 +1,16 @@
+import { useEffect, useRef } from 'react';
+
 export default function HeroSection() {
+  const videoRef = useRef(null);
+
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.play().catch((error) => {
+        console.log("Autoplay was prevented:", error);
+      });
+    }
+  }, []);
+
   return (
     <section 
       style={{
@@ -20,6 +32,7 @@ export default function HeroSection() {
     >
       {/* Background Video & Gradient */}
       <video
+        ref={videoRef}
         autoPlay
         loop
         muted
