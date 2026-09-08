@@ -1,3 +1,30 @@
+# 🏔️ Zirveye İz Bırak | Kayak Eğitimi ve Profesyonel Sürüş Rehberi
+
+Modern web teknolojileriyle geliştirilmiş, profesyonel kayak tekniklerini keşfetmenizi sağlayan dinamik ve kullanıcı dostu bir portfolio/eğitim web sitesi.
+
+🔗 **Canlı Site:** [Projeyi Canlı İncele](https://ski-instruction.vercel.app)
+
+---
+
+## ✨ Öne Çıkan Özellikler
+
+- **Modern Hero Alanı:** Sayfa açılışında otomatik ve kesintisiz oynayan yüksek kaliteli arka plan video entegrasyonu.
+- **Duyarlı (Responsive) Tasarım:** Mobil, tablet ve masaüstü cihazlarda kusursuz uyum sağlayan esnek arayüz.
+- **Performans Odaklı Yapı:** Optimize edilmiş bileşen mimarisi ve temiz stil yönetimi.
+- **İstatistik Blokları:** Ziyaretçilere güven veren deneyim ve öğrenci istatistikleri.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+Bu proje, güncel web geliştirme standartlarına uygun olarak aşağıdaki teknoloji yığınıyla geliştirilmiştir:
+
+- **Frontend:** React, TypeScript, Vite
+- **Stil Yönetimi:** Inline Styles & Tailwind CSS
+- **Veritabanı & Backend Servisleri:** Supabase
+- **Dağıtım (Deployment):** Vercel
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
