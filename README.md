@@ -1,6 +1,6 @@
 # 🏔️ Zirveye İz Bırak | Kayak Eğitimi ve Profesyonel Sürüş Rehberi
 
-Modern web teknolojileriyle geliştirilmiş, profesyonel kayak tekniklerini keşfetmenizi sağlayan dinamik ve kullanıcı dostu bir portfolio/eğitim web sitesi.
+Modern web teknolojileriyle geliştirilmiş, etkileyici **3D görsel katmanlar** ve sinematik animasyonlarla zenginleştirilmiş profesyonel bir kayak eğitimi ve portfolyo web sitesi.
 
 🔗 **Canlı Site:** [Projeyi Canlı İncele](https://ski-instruction.vercel.app)
 
@@ -8,9 +8,9 @@ Modern web teknolojileriyle geliştirilmiş, profesyonel kayak tekniklerini keş
 
 ## ✨ Öne Çıkan Özellikler
 
-- **Modern Hero Alanı:** Sayfa açılışında otomatik ve kesintisiz oynayan yüksek kaliteli arka plan video entegrasyonu.
+- **3D & Sinematik Görsel Deneyim:** Sayfa açılışında derinlik kazandıran akıcı 3D animasyon entegrasyonu ve otomatik oynayan yüksek kaliteli arka plan dinamikleri.
 - **Duyarlı (Responsive) Tasarım:** Mobil, tablet ve masaüstü cihazlarda kusursuz uyum sağlayan esnek arayüz.
-- **Performans Odaklı Yapı:** Optimize edilmiş bileşen mimarisi ve temiz stil yönetimi.
+- **Performans Odaklı Yapı:** Optimize edilmiş bileşen mimarisi ve sıfır gecikmeli render süreci.
 - **İstatistik Blokları:** Ziyaretçilere güven veren deneyim ve öğrenci istatistikleri.
 
 ---
@@ -20,6 +20,7 @@ Modern web teknolojileriyle geliştirilmiş, profesyonel kayak tekniklerini keş
 Bu proje, güncel web geliştirme standartlarına uygun olarak aşağıdaki teknoloji yığınıyla geliştirilmiştir:
 
 - **Frontend:** React, TypeScript, Vite
+- **Görsel & Animasyon:** 3D Efektler ve Dinamik Medya Katmanları
 - **Stil Yönetimi:** Inline Styles & Tailwind CSS
 - **Veritabanı & Backend Servisleri:** Supabase
 - **Dağıtım (Deployment):** Vercel
