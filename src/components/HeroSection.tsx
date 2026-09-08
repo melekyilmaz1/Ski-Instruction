@@ -1,12 +1,12 @@
 import { useEffect, useRef } from 'react';
 
 export default function HeroSection() {
-  const videoRef = useRef(null);
+  const videoRef = useRef<HTMLVideoElement>(null);
 
   useEffect(() => {
     if (videoRef.current) {
-      videoRef.current.play().catch((error) => {
-        console.log("Autoplay was prevented:", error);
+      videoRef.current.play().catch(() => {
+        // Otomatik oynatma engellenirse sessizce yut
       });
     }
   }, []);
