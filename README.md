@@ -2,7 +2,7 @@
 
 Modern web teknolojileriyle geliştirilmiş, etkileyici **3D görsel katmanlar** ve sinematik animasyonlarla zenginleştirilmiş profesyonel bir kayak eğitimi ve portfolyo web sitesi.
 
-🔗 **Canlı Site:** [Projeyi Canlı İncele](https://ski-instruction.vercel.app)
+🔗 **Canlı Site:** [Projeyi Canlı İncele](https://ski-instruction.onrender.com)
 
 ---
 
